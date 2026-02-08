@@ -11,7 +11,7 @@
 ✅ **Second Container** with green background, Row with "Left Text" and "Right Text", white border, padding  
 
 ### Screenshot:
-![Lab 3 Screenshot](lab3_photo.png)
+![Lab 3 Screenshot](lab_3_photo.png)
 
 ### Code Implementation:
 ```dart
